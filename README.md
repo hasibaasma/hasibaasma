@@ -7,6 +7,14 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 
 ---
 
+## 🎓 Education
+- **PhD, Genetics, Genomics & Bioinformatics**, *State University of New York at Buffalo (University at Buffalo)* — 2023  
+- **MS, Genetics, Genomics & Bioinformatics**, *State University of New York at Buffalo (University at Buffalo)* — 2019  
+- **BS, Bioinformatics**, *International Islamic University Islamabad* — 2016  
+
+---
+
+
 ## 🔬 Current Roles
 - **Bioinformatician, Sepal AI (Aug 2025 – Present)**  
   Building reproducible RNA-seq / microbiome / multi-omics pipelines for AI model benchmarking and packaging workflows into standardized evaluation tasks.
@@ -17,7 +25,7 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 ---
 
 ## 🧩 Story & Research Vision
-In 2017, I came to the University at Buffalo from Pakistan as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
+In 2017, I came to the State University of New York at Buffalo as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
 As highlighted in the university’s **[Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html)** feature, my doctoral research in the **Halfon Lab** focused on developing and applying **SCRMshaw**, a machine-learning approach for predicting regulatory genomic elements (enhancers) across dozens of insect species.  
 This work laid the foundation for my continuing interest in **AI-driven genomics** and large-scale **regulatory genome annotation**.
 
