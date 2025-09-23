@@ -16,11 +16,11 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 
 ---
 
-## 🧩 Research Highlights
-- **PhD in Genetics, Genomics & Bioinformatics**, University at Buffalo (2023)  
-  - Applied SCRMshaw, a machine-learning algorithm, for enhancer prediction across **33 insect species**, expanding regulatory genome annotations.
-  - Analyzed **ChIP-seq, FAIRE-seq, ATAC-seq, scATAC-seq** data to study chromatin accessibility and gene regulation.
-  - Presented at **7+ national and international conferences**.
+## 🧩 Story & Research Vision
+In 2017, I came to the University at Buffalo from Pakistan as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
+As highlighted in the university’s **[Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html)** feature, my doctoral research in the **Halfon Lab** focused on developing and applying **SCRMshaw**, a machine-learning approach for predicting regulatory genomic elements (enhancers) across dozens of insect species.  
+This work laid the foundation for my continuing interest in **AI-driven genomics** and large-scale **regulatory genome annotation**.
+
 
 ---
 
@@ -32,6 +32,11 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 - [SCRMshaw: Supervised cis-regulatory module prediction for insect genomes. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0311752)
 
 _For a full list, see my [Google Scholar]https://scholar.google.com/citations?user=_BAFDOEAAAAJ&hl=en
+
+---
+## 🏛️ Recognition & News
+- Featured in UB Biochemistry News: [“Bioinformatics Student Earns Fulbright Fellowship”](https://medicine.buffalo.edu/departments/biochemistry/news_and_events/news.host.html/content/shared/smbs/news/2017/11/asma-fulbright-fellow-7140.detail.html)  
+- Profiled in UB’s [Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html) series for my Fulbright journey and doctoral research.  
 
 ---
 
