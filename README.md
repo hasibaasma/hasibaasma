@@ -31,7 +31,7 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 - [Mechanisms of transcriptional regulation in *Anopheles gambiae*. *Proc. R. Soc. B* (2024)](http://doi.org/10.1098/rspb.2024.1142)  
 - [SCRMshaw: Supervised cis-regulatory module prediction for insect genomes. *PLOS ONE* (2024)](https://doi.org/10.1371/journal.pone.0311752)
 
-_For a full list, see my [Google Scholar]([https://scholar.google.com/hasibaasma](https://scholar.google.com/citations?user=_BAFDOEAAAAJ&hl=en)) ._
+_For a full list, see my [Google Scholar]([https://scholar.google.com/hasibaasma]https://scholar.google.com/citations?user=_BAFDOEAAAAJ&hl=en
 
 ---
 
