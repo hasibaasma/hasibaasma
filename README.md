@@ -1,6 +1,6 @@
 # Hi, I'm Hasiba Asma 👋
 
-**Bioinformatician | Computational Biologist | Bioinformatics Scientist **
+** Bioinformatician | Computational Biologist | Bioinformatics Scientist **
 
 I’m a bioinformatician with 10+ years of experience in **computational genomics**, developing and implementing reproducible **multi-omics pipelines**, and applying **machine learning** to large-scale regulatory genomics data.  
 My work spans **RNA-seq, epigenomics and microbiome**, with a strong background in **genetics, epigenetics, and developmental biology**.
@@ -8,16 +8,16 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 ---
 
 ## 🔬 Current Roles
-- **Bioinformatician, Sepal AI (Aug 2025 – Present)**  
+- ** Bioinformatician, Sepal AI (Aug 2025 – Present)**  
   Building reproducible RNA-seq / microbiome / multi-omics pipelines for AI model benchmarking and packaging workflows into standardized evaluation tasks.
 
-- **Adjunct Lecturer, NUST (Jul 2024 – May 2025)**  
+- ** Adjunct Lecturer, NUST (Jul 2024 – May 2025)**  
   Designed and delivered lectures in computational biology, improving course outcomes and mentoring students in bioinformatics applications.
 
 ---
 
 ## 🧩 Research Highlights
-- **PhD, Genetics, Genomics & Bioinformatics**, University at Buffalo (2023)  
+- ** PhD, Genetics, Genomics & Bioinformatics**, University at Buffalo (2023)  
   - Applied SCRMshaw, a machine-learning algorithm, for enhancer prediction across **33 insect species**, expanding regulatory genome annotations.
   - Analyzed **ChIP-seq, FAIRE-seq, ATAC-seq, scATAC-seq** data to study chromatin accessibility and gene regulation.
   - Presented at **7+ national and international conferences**.
@@ -59,7 +59,7 @@ When I’m not working with data, I enjoy exploring intersections of **AI and ge
 ### 📫 Get in Touch
 - Email: [hasiba.asma@gmail.com](mailto:hasiba.asma@gmail.com)  
 - GitHub: [github.com/HasibaAsma](https://github.com/HasibaAsma)  
-- LinkedIn: [linkedin.com/in/hasiba-asma](https://www.linkedin.com/hasibaasma) 
+- LinkedIn: [linkedin.com/in/hasiba-asma]([https://www.linkedin.com/hasibaasma](https://www.linkedin.com/in/hasibaasma/)) 
 
 ---
 
