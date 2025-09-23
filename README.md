@@ -1,16 +1,10 @@
-# Hi there👋
+# Hi, I'm Hasiba Asma 👋
 
+**PhD in Genetics, Genomics & Bioinformatics (State University of New York at Buffalo)**  
 **Bioinformatician | Computational Biologist | Bioinformatics Scientist**
 
 I’m a bioinformatician with 10+ years of experience in **computational genomics**, developing and implementing reproducible **multi-omics pipelines**, and applying **machine learning** to large-scale regulatory genomics data.  
 My work spans **RNA-seq, epigenomics and microbiome**, with a strong background in **genetics, epigenetics, and developmental biology**.
-
----
-
-## 🎓 Education
-- **PhD, Genetics, Genomics & Bioinformatics**, *State University of New York at Buffalo (University at Buffalo)* — 2023  
-- **MS, Genetics, Genomics & Bioinformatics**, *State University of New York at Buffalo (University at Buffalo)* — 2019  
-- **BS, Bioinformatics**, *International Islamic University Islamabad* — 2016  
 
 ---
 
@@ -24,11 +18,14 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 
 ---
 
-## 🧩 Story & Research Vision
-In 2017, I came to the State University of New York at Buffalo as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
-As highlighted in the university’s **[Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html)** feature, my doctoral research in the **Halfon Lab** focused on developing and applying **SCRMshaw**, a machine-learning approach for predicting regulatory genomic elements (enhancers) across dozens of insect species.  
-This work laid the foundation for my continuing interest in **AI-driven genomics** and large-scale **regulatory genome annotation**.
-
+## 🧩 Research Highlights
+**PhD, Genetics, Genomics & Bioinformatics, State University of New York at Buffalo (2023)**
+- Built a bioinformatics pipeline to evaluate enhancer-prediction tools using machine-learning algorithms, resulting in a BMC Bioinformatics publication.
+- Applied SCRMshaw, machine learning algoorithm, to annotate enhancers across 33 insect species, expanding regulatory element annotations in under-represented genomes.
+- Contributed to multi-institutional collaborations leading to multiple peer-reviewed publications.
+- Analyzed chromatin accessibility data—ChIP-seq, FAIRE-seq, ATAC-seq, and single-cell ATAC-seq (scATAC-seq)—to advance understanding of regulatory genomics.
+- Mentored junior researchers, established SOPs, and provided bioinformatics support to wet-lab collaborators (data analysis and figure generation in R).
+- Presented findings at 7+ national and international conferences, communicating complex bioinformatics concepts to diverse audiences.
 
 ---
 
@@ -42,9 +39,12 @@ This work laid the foundation for my continuing interest in **AI-driven genomics
 _For a full list, see my [Google Scholar]https://scholar.google.com/citations?user=_BAFDOEAAAAJ&hl=en
 
 ---
+
 ## 🏛️ Recognition & News
+- Arrived at the State University of New York at Buffalo in 2017 as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
 - Featured in UB Biochemistry News: [“Bioinformatics Student Earns Fulbright Fellowship”](https://medicine.buffalo.edu/departments/biochemistry/news_and_events/news.host.html/content/shared/smbs/news/2017/11/asma-fulbright-fellow-7140.detail.html)  
-- Profiled in UB’s [Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html) series for my Fulbright journey and doctoral research.  
+- Profiled in UB’s [Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html) series for my Fulbright journey.
+
 
 ---
 
