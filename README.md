@@ -78,4 +78,3 @@ When I’m not working with data, I enjoy exploring intersections of **AI and ge
 
 ---
 
-_This README was generated from my [CV](./Asma_Hasiba_resume_0925.pdf) and will be updated as my research evolves._
