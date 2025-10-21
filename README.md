@@ -43,7 +43,7 @@ _For a full list, see my [Google Scholar]https://scholar.google.com/citations?us
 ## 🏛️ Recognition & News
 - Arrived at the State University of New York at Buffalo in 2017 as a **Fulbright Foreign Student Fellow**, becoming one of the first Pakistani scholars in bioinformatics at UB.  
 - Featured in UB Biochemistry News: [“Bioinformatics Student Earns Fulbright Fellowship”](https://medicine.buffalo.edu/departments/biochemistry/news_and_events/news.host.html/content/shared/smbs/news/2017/11/asma-fulbright-fellow-7140.detail.html)  
-- Profiled in UB’s [Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html) series for my Fulbright journey.
+- Profiled in UB’s [Faces & Voices](https://medicine.buffalo.edu/education/graduate/about/our-students.host.html/content/shared/smbs/faces_and_voices/students/hasiba-asma.detail.html) series for my Phd in Biooinformatics.
 
 
 ---
