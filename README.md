@@ -10,7 +10,9 @@ My work spans **RNA-seq, epigenomics and microbiome**, with a strong background 
 
 
 ## 🔬 Current Roles
-- **Bioinformatician, Mercor (Formerly Sepal AI (Aug 2025 – Present))**  
+- **User Support Bioinformatician, ENA @ The European Bioinformatics Institute (EMBL-EBI)(Sept 2026 - present)**
+- 
+- **Bioinformatician, Mercor (Formerly Sepal AI (Aug 2025 – July 2026))**  
   Building reproducible RNA-seq / microbiome / multi-omics pipelines for AI model benchmarking and packaging workflows into standardized evaluation tasks.
 
 - **Adjunct Lecturer, NUST (Jul 2024 – May 2025)**  
